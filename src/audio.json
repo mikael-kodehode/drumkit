@@ -1,0 +1,36 @@
+{
+  "sounds": [
+    {
+      "sound":"clap",
+      "url":"sounds/clap.wav"
+    },
+    {
+      "sound":"hihat",
+      "url":"sounds/hihat.wav"
+    },
+    {
+      "sound":"kick",
+      "url":"sounds/kick.wav"
+    },
+    {
+      "sound":"openhat",
+      "url":"sounds/openhat.wav"
+    },
+    {
+      "sound":"ride",
+      "url":"sounds/ride.wav"
+    },
+    {
+      "sound":"snare",
+      "url":"sounds/snare.wav"
+    },
+    {
+      "sound":"tink",
+      "url":"sounds/tink.wav"
+    },
+    {
+      "sound":"tom",
+      "url":"sounds/tom.wav"
+    }
+  ]
+}
